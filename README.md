@@ -1,0 +1,2 @@
+# destructuringEx
+practice with destructuring
